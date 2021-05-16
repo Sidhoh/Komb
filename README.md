@@ -8,7 +8,7 @@ A Cli tool for Windows.<br><br>
 </div>
 
 # About
-Komb is a CLI tool for windows, allows user to create folder , text document etc... from the command promt
+Komb is a open source CLI tool for windows, allows users to create folder , text document etc... from the command promt
 
 ## Note 
 This piece of softwware is still under development.
