@@ -15,4 +15,9 @@ This piece of softwware is still under development.
 
 ### Instalation
 
-- Install Komb and extract the zip file.
+- Install [Komb](https://github.com/DanDuh-Man/Komb/releases/tag/1.0 hi) and extract the zip file.
+- Inside Komb folder you will see some executable file.
+- Copy those files and paste then in windowsapp dir.
+- Now open command prompt type <code>khelo.exe</code>.
+And you are ready to go!
+
