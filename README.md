@@ -11,4 +11,8 @@ A Cli tool for Windows.<br><br>
 Komb is a CLI tool for windows, allows user to create folder , text document etc... from the command promt
 
 ## Note 
-This peace of softwware i
+This piece of softwware is still under development.
+
+### Instalation
+
+- Install Komb and extract the zip file.
