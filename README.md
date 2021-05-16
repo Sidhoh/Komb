@@ -3,7 +3,7 @@
          Komb
      </H1>
 A Cli tool for Windows.<br><br>
-     <a href="https://github.com/DanDuh-Man/Komb/blob/main/LICENSE">License</a> • <a href="https://github.com/DanDuh-Man/Komb">Download</a>
+     <a href="https://github.com/DanDuh-Man/Komb/blob/main/LICENSE">License</a> • <a href="https://github.com/DanDuh-Man/Komb/releases/tag/1.0">Download</a>
 
 </div>
 
